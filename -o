@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 25 Nov 2026 08:42:37 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Upstream: 172.18.0.5:8080
+X-Request-ID: abb07a03135b358f23c9da8796cb08d9
+
